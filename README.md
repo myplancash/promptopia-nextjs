@@ -1,13 +1,15 @@
 # Build and Deploy a Full Stack App Using the Official React Framework
-![AI Prompt Sharing](https://i.ibb.co/9pQNZZy/Thumbnail-27.png)
-
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+![promptopia](https://github.com/myplancash/promptopia-nextjs/assets/64751892/6216ebd9-f319-42be-bfeb-7846521739aa)
 
 ## Introduction
-Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you'll put your skills to the test by building a modern full-stack Next 13 application.
+Revolutionize your creative journey with Promptopia—an avant-garde, open-source AI prompting tool designed for the contemporary world.
+
+```
+   npm install
+   npm run dev
+```
  
-In this video, you'll learn:
+I did use:
 - Next.js 13 App Folder Structure
 - Next.js 13 Client Components vs Server Components
 - Next.js 13 File-based Routing (including dynamic and nested routes)
